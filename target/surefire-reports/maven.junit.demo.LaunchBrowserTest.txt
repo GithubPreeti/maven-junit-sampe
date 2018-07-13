@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: maven.junit.demo.ConcatTest
+Test set: maven.junit.demo.LaunchBrowserTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 63.974 sec
