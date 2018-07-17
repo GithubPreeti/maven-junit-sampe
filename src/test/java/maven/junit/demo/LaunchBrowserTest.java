@@ -12,7 +12,6 @@ public class LaunchBrowserTest {
 	@Test
 	public void launchBrowser() {
 		
-		System.setProperty("webdriver.chrome.driver","C://Users//Sony//Downloads//chromedriver_win32//chromedriver.exe");
 		driver = new ChromeDriver();
 		driver.get("https://www.google.com/");
         assertEquals("Google", driver.getTitle());
